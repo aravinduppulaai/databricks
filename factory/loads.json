@@ -1,0 +1,9 @@
+{
+	"name": "loads",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "e40966ea-42a0-4a7b-a57f-3b765fd66816",
+		"tenantId": "33f95399-996d-4042-8ce6-51dd2cea3636"
+	}
+}
