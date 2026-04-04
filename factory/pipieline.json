@@ -1,0 +1,9 @@
+{
+	"name": "pipieline",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "d2dd7459-d902-45fc-afdf-98df4b46f47f",
+		"tenantId": "851f90df-8fd6-44a2-a0f7-6e2ffbaec727"
+	}
+}
